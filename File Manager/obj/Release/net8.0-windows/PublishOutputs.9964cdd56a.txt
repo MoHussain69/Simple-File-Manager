@@ -1,0 +1,5 @@
+C:\Users\rickn\Desktop\CsharpProjects\File Manager\bin\Release\net8.0-windows\publish\File Manager.exe
+C:\Users\rickn\Desktop\CsharpProjects\File Manager\bin\Release\net8.0-windows\publish\File Manager.dll
+C:\Users\rickn\Desktop\CsharpProjects\File Manager\bin\Release\net8.0-windows\publish\File Manager.deps.json
+C:\Users\rickn\Desktop\CsharpProjects\File Manager\bin\Release\net8.0-windows\publish\File Manager.runtimeconfig.json
+C:\Users\rickn\Desktop\CsharpProjects\File Manager\bin\Release\net8.0-windows\publish\File Manager.pdb

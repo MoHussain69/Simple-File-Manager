@@ -1,0 +1,14 @@
+C:\Users\rickn\Desktop\CsharpProjects\File Manager\bin\Release\net8.0-windows\File Manager.exe
+C:\Users\rickn\Desktop\CsharpProjects\File Manager\bin\Release\net8.0-windows\File Manager.deps.json
+C:\Users\rickn\Desktop\CsharpProjects\File Manager\bin\Release\net8.0-windows\File Manager.runtimeconfig.json
+C:\Users\rickn\Desktop\CsharpProjects\File Manager\bin\Release\net8.0-windows\File Manager.dll
+C:\Users\rickn\Desktop\CsharpProjects\File Manager\bin\Release\net8.0-windows\File Manager.pdb
+C:\Users\rickn\Desktop\CsharpProjects\File Manager\obj\Release\net8.0-windows\File Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rickn\Desktop\CsharpProjects\File Manager\obj\Release\net8.0-windows\File Manager.AssemblyInfoInputs.cache
+C:\Users\rickn\Desktop\CsharpProjects\File Manager\obj\Release\net8.0-windows\File Manager.AssemblyInfo.cs
+C:\Users\rickn\Desktop\CsharpProjects\File Manager\obj\Release\net8.0-windows\File Manager.csproj.CoreCompileInputs.cache
+C:\Users\rickn\Desktop\CsharpProjects\File Manager\obj\Release\net8.0-windows\File Manager.dll
+C:\Users\rickn\Desktop\CsharpProjects\File Manager\obj\Release\net8.0-windows\refint\File Manager.dll
+C:\Users\rickn\Desktop\CsharpProjects\File Manager\obj\Release\net8.0-windows\File Manager.pdb
+C:\Users\rickn\Desktop\CsharpProjects\File Manager\obj\Release\net8.0-windows\File Manager.genruntimeconfig.cache
+C:\Users\rickn\Desktop\CsharpProjects\File Manager\obj\Release\net8.0-windows\ref\File Manager.dll
